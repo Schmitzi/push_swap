@@ -1,4 +1,15 @@
-# Push_Swap
+<p align="center">
+    <img src="img/push_swape.png"/>
+</p>
+
+<h1 align="center">
+   push_swap
+</h1>
+
+<p align="center">
+    <img src="https://img.shields.io/badge/language-%20C-blue" />
+    <img src="https://img.shields.io/badge/98%2F100-green" />
+</p>
 
 ## Description
 `push_swap` is a sorting algorithm project where the goal is to sort a stack of integers using two stacks (`a` and `b`) and a set of predefined operations.
